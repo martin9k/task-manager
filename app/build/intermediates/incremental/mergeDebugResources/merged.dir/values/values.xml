@@ -151,9 +151,9 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="colorAccent"/>
-    <color name="colorPrimary"/>
-    <color name="colorPrimaryDark"/>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
     <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
@@ -384,7 +384,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="app_name">task</string>
+    <string name="app_name">Task Manager</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -410,9 +410,24 @@
     <string name="google_app_id" translatable="false">1:896608813435:android:09053ace2e37babe66fdde</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAenhz8tgpQ2CC7T_D9ERMRBhSxHenwM1M</string>
     <string name="google_storage_bucket" translatable="false">task-68a48.appspot.com</string>
+    <string name="hint">Email:</string>
+    <string name="hint2">Password:</string>
+    <string name="me">Processing..</string>
     <string name="project_id" translatable="false">task-68a48</string>
     <string name="search_menu_title">Search</string>
+    <string name="singin">Already have account?Sing in here</string>
+    <string name="singup">Dont have account?Sing up here</string>
+    <string name="singupf">Required field..</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suc">Problem</string>
+    <string name="succ">Successful</string>
+    <string name="text">Log in</string>
+    <string name="text1">Facebook Log in</string>
+    <string name="text2">Gmail Log in</string>
+    <string name="text3">Anonymous Log in</string>
+    <string name="text4">Register now</string>
+    <string name="textv">Registration</string>
+    <string name="textview">Log in</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
